@@ -327,42 +327,6 @@ local blips = {
     { text = "Carwash", color = 0, sprite = 100, coord = vector3(167.1034, -1719.4704, 27.2916) },
     { text = "Carwash", color = 0, sprite = 100, coord = vector3(-74.5693, 6427.8715, 29.4400) },
 
-	-- Beanmachine
-    { text = "Bean machine", color = 46, sprite = 536, coord = vector3(-633.4493, 235.7380, 81.8819) },
-
-	-- Digital Den
-    { text = "Digital Den", color = 46, sprite = 521, coord = vector3(1133.0682, -472.9529, 66.7652) },
-
-	-- Weazel News
-    { text = "Weazel News", color = 1, sprite = 184, coord = vector3(-591.4649, -930.6395, 23.8875) },
-
-	-- Downtown Cab Co
-    { text = "Downtown Cab Co", color = 46, sprite = 198, coord = vector3(906.7267, -159.8677, 74.1683) },
-
-	-- Irish Pub
-    { text = "Irish Pub", color = 46, sprite = 93, coord = vector3(837.2129, -113.5644, 79.7747) },
-
-	-- Burgershot
-    { text = "Burgershot", color = 46, sprite = 536, coord = vector3(-1194.0736, -892.8605, 13.9953) },
-
-	-- Hunting Shop
-    { text = "Hunting Shop", color = 46, sprite = 141, coord = vector3(-774.5991, 5602.6704, 33.7409) },
-
-	-- Hen House
-    { text = "Hen House", color = 46, sprite = 93, coord = vector3(-296.4673, 6265.6611, 31.5085) },
-
-	-- Larrys
-    { text = "Larrys", color = 3, sprite = 225, coord = vector3(1229.8151, 2731.6272, 38.0105) },
-
-	-- PDM luxury
-    { text = "PDM luxury", color = 3, sprite = 225, coord = vector3(-1253.5427, -349.9742, 36.9076) },
-
-	-- Job Centre
-    { text = "Job Centre", color = 27, sprite = 407, coord = vector3(-234.7049, -920.8416, 32.3122) },
-
-	-- Driving School
-    { text = "Driving School", color = 0, sprite = 408, coord = vector3(215.2405, -1399.0316, 30.5835) },
-
 }
 
 -- Don't edit below this line.
