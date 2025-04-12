@@ -326,7 +326,6 @@ local blips = {
     { text = "Carwash", color = 0, sprite = 100, coord = vector3(-700.01, -933.06, 18.48) }, 
     { text = "Carwash", color = 0, sprite = 100, coord = vector3(167.1034, -1719.4704, 27.2916) },
     { text = "Carwash", color = 0, sprite = 100, coord = vector3(-74.5693, 6427.8715, 29.4400) },
-
 }
 
 -- Don't edit below this line.
